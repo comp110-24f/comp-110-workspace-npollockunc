@@ -1,3 +1,5 @@
-from random import random
+def yay():
+    yay(sum(num1: int, num2: int))
+    return num1 + num2
 
-random()
+return sum(num1=1, num2=10)
